@@ -1,4 +1,4 @@
-# CS1332
-CS 1332 (Data Structures and Algorithms) Homeworks taught by Dr. Faulkner at Georgia Tech in Fall 2022.
+# Data Structures and Algorithms
+Data Structures and Algorithms (CS 1332) Homeworks taught by Dr. Faulkner at Georgia Tech in Fall 2022.
 
 
